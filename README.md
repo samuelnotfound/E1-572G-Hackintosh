@@ -6,6 +6,8 @@
 
 This config was configured to boot macOS Big Sur - Sequoia. See what's [not working](.docs/ISSUES.md).
 
+**UPDATE: I no longer have access to this laptop, these config are no longer actively tested or maintained, and a a working out of the box EFI cannot be guaranteed.**
+
 ### 💻 System Specification
 
 | Category       | Component                                  |
